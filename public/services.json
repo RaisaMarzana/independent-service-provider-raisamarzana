@@ -1,0 +1,23 @@
+[
+    {
+        "id": "625b17f90e92065b687ad60b",
+        "picture": "https://i.ibb.co/C5F8k06/service1.jpg",
+        "name": "Bridal Makeover",
+        "price": 15000,
+        "description": "I am an expert in Bridal Makeovers. Your marriage day is your day to look like a Queen and I can make sure you do look like a Queen."
+    },
+    {
+        "id": "625b17f955330443ff703d71",
+        "picture": "https://i.ibb.co/1bhmg4b/service2.jpg",
+        "name": "Party Makeup",
+        "price": 5000,
+        "description": "Every party is unique and you should dress uniquely. I make you unique and make you stand out of the rest. Can do any style you want."
+    },
+    {
+        "id": "625b17f9a2e549d5af9411bc",
+        "picture": "https://i.ibb.co/ZG3BxzH/service3.jpg",
+        "name": "Full Makeover",
+        "price": 25000,
+        "description": "A full makeover could be haircut and make up, full program of detox and body treatments, facial, shopping trip and life coaching"
+    }
+]
